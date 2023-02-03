@@ -1,0 +1,30 @@
+* {
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
+
+.firstrow {
+  text-align: center;
+  margin-top: 320px;
+}
+
+.head {
+  background-color: #344664;
+  color: rgb(72, 16, 16);
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.about {
+  font-size: 20px;
+  font-family: monospace;
+}
+
+.press {
+  text-align: center;
+  border-radius: 10px;
+  padding: 2px 10px;
+  margin-left: 20px;
+  background-color: rgb(232, 221, 221);
+}
