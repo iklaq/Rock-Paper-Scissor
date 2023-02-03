@@ -70,7 +70,6 @@ function playerChoice(i) {
 // modify the choice of player ex-> 1 to Rock , 2 to Paper .
 function modifyChoice(playerSelection) {
   if (playerSelection == 1) return CHOICES.Rock;
-
   return playerSelection == 2 ? CHOICES.Paper : CHOICES.Scissors;
 }
 
